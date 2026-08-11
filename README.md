@@ -107,16 +107,16 @@ Student outreach and academic activities
 University examination responsibilities
 ## Publications
 
-# Book Chapter:
+### Book Chapter:
 * [B-1] Ammlan Ghosh, Rituparna Chaki, and Nabendu Chaki. "Abort-Free STM: A Non-blocking Concurrency Control Approach Using Software Transactional Memory." In: R.Chaki, K. Saeed , A. Cotesi, N. Chaki (EDs.),  Advanced Computing and Systems for Security, Springer AISC (Advances in Intelligent Systems and Computing), Vol. 567, pp. 53-71, Series ISSN: 2194-5357,  ISBN: 978-981-10-3408-4, 2017. DOI: 10.1007/978-981-10-3409-1_4.
 * [B-2] Ammlan Ghosh and Rituparna Chaki. "Implementing Software Transactional Memory Using STM Haskell." In: R. Chaki, A. Cortesi, K. Saeed, and N. Chaki (Eds.), Advances Computing and Systems for Security, Springer AISC (Advances in Intelligent Systems and Computing) Vol. 396, pp. 235-248, ISBN 978-81-322-2653-6, 2016.  DOI: 10.1007/978-81-322-2653-6_16.
 * [B-3] Ankita Saha, Atrayee Chatterjee, Nabanita Pal, Ammlan Ghosh and Nabendu Chaki. "A Lightweight Implementation of Obstruction-Free Software Transactional Memory." In: R. Chaki, K. Saeed, S. Choudhury, N. Chaki (Eds.) Applied Computation and Security Systems, Springer AISC (Advances in Intelligent Systems and Computing) Vol. 305 pp. 67-84, ISBN 978-81-322-1988-0, 2015.   
 
-# Journals
+### Journals
 * [J2] Soumen Santra, Hemanta Dey, Ammlan Ghosh, “Texture Identification of Cancer Cell Using Tamura’s Feature for Precise Treatment to Avoid Metastasis”, Journal of Artificial Intelligence and Systems, IEC Science Vol 6(1), pp. 76-84, 2024, DOI: 10.33969/AIS.2024060105
 * [J-1] Ammlan Ghosh, Rituparna Chaki  and Nabendu Chaki,. “A new concurrency control mechanism for multi-threaded environment using transactional memory”. The Journal of Supercomputing, Springer, 71(11), pp.4095-4115. 2015. (SCI Impact Factor 2.8) DOI: 10.1007/s11227-015-1507-8.
 		
-# Conference
+### Conference
 
 * [C-7] Adrija Bhattacharya, Ammlan Ghosh, Sankhayan Choudhury, “Cloud Service Insurance: An Actuarial Approach to Ensure Quality Delivery for Consumers”, In Proc. of IEEE International Conference on Recent Advances in Computing and Systems (REACS-2025), India 19-20 December, 20255, DOI: 10.1109/REACS67479.2025.11413475
 * [C-6] Sampa Das, Ammlan Ghosh, “E-Learning in Agricultural Sector of North-Eastern India: Challenges and Opportunities”, In Proc. of International Conference on Business Management  ( ICBM-2020) , Tripura, India
