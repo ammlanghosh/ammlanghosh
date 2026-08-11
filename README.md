@@ -129,18 +129,18 @@ University examination responsibilities
 
 ## Academic Profiles
 
-* Google Scholar
+* Google Scholar: 
 https://scholar.google.com/citations?user=o5sPhpUAAAAJ&hl=en
 
-* ORCID
+* ORCID: 
 orcid.org/0000-0002-3840-4583
 
-* LinkedIn
+* LinkedIn: 
 linkedin.com/in/ammlan-ghosh
 
 ## Contact
 
 Email: 
 ammlan.ghosh@gmail.com  
-ghosh.ammlan@gmail.cm 
+ghosh.ammlan@gmail.com 
 ammlanghosh.sse@saveetha.com
