@@ -107,25 +107,24 @@ Student outreach and academic activities
 University examination responsibilities
 ## Publications
 
-[1] Publications of  Ammlan Ghosh:
-Book Chapter:
-[B-1] Ammlan Ghosh, Rituparna Chaki, and Nabendu Chaki. "Abort-Free STM: A Non-blocking Concurrency Control Approach Using Software Transactional Memory." In: R.Chaki, K. Saeed , A. Cotesi, N. Chaki (EDs.),  Advanced Computing and Systems for Security, Springer AISC (Advances in Intelligent Systems and Computing), Vol. 567, pp. 53-71, Series ISSN: 2194-5357,  ISBN: 978-981-10-3408-4, 2017. DOI: 10.1007/978-981-10-3409-1_4.
- [B-2] Ammlan Ghosh and Rituparna Chaki. "Implementing Software Transactional Memory Using STM Haskell." In: R. Chaki, A. Cortesi, K. Saeed, and N. Chaki (Eds.), Advances Computing and Systems for Security, Springer AISC (Advances in Intelligent Systems and Computing) Vol. 396, pp. 235-248, ISBN 978-81-322-2653-6, 2016.  DOI: 10.1007/978-81-322-2653-6_16.
-[B-3] Ankita Saha, Atrayee Chatterjee, Nabanita Pal, Ammlan Ghosh and Nabendu Chaki. "A Lightweight Implementation of Obstruction-Free Software Transactional Memory." In: R. Chaki, K. Saeed, S. Choudhury, N. Chaki (Eds.) Applied Computation and Security Systems, Springer AISC (Advances in Intelligent Systems and Computing) Vol. 305 pp. 67-84, ISBN 978-81-322-1988-0, 2015.   
+# Book Chapter:
+* [B-1] Ammlan Ghosh, Rituparna Chaki, and Nabendu Chaki. "Abort-Free STM: A Non-blocking Concurrency Control Approach Using Software Transactional Memory." In: R.Chaki, K. Saeed , A. Cotesi, N. Chaki (EDs.),  Advanced Computing and Systems for Security, Springer AISC (Advances in Intelligent Systems and Computing), Vol. 567, pp. 53-71, Series ISSN: 2194-5357,  ISBN: 978-981-10-3408-4, 2017. DOI: 10.1007/978-981-10-3409-1_4.
+* [B-2] Ammlan Ghosh and Rituparna Chaki. "Implementing Software Transactional Memory Using STM Haskell." In: R. Chaki, A. Cortesi, K. Saeed, and N. Chaki (Eds.), Advances Computing and Systems for Security, Springer AISC (Advances in Intelligent Systems and Computing) Vol. 396, pp. 235-248, ISBN 978-81-322-2653-6, 2016.  DOI: 10.1007/978-81-322-2653-6_16.
+* [B-3] Ankita Saha, Atrayee Chatterjee, Nabanita Pal, Ammlan Ghosh and Nabendu Chaki. "A Lightweight Implementation of Obstruction-Free Software Transactional Memory." In: R. Chaki, K. Saeed, S. Choudhury, N. Chaki (Eds.) Applied Computation and Security Systems, Springer AISC (Advances in Intelligent Systems and Computing) Vol. 305 pp. 67-84, ISBN 978-81-322-1988-0, 2015.   
 
-Journals
- [J2] Soumen Santra, Hemanta Dey, Ammlan Ghosh, “Texture Identification of Cancer Cell Using Tamura’s Feature for Precise Treatment to Avoid Metastasis”, Journal of Artificial Intelligence and Systems, IEC Science Vol 6(1), pp. 76-84, 2024, DOI: 10.33969/AIS.2024060105
-[J-1] Ammlan Ghosh, Rituparna Chaki  and Nabendu Chaki,. “A new concurrency control mechanism for multi-threaded environment using transactional memory”. The Journal of Supercomputing, Springer, 71(11), pp.4095-4115. 2015. (SCI Impact Factor 2.8) DOI: 10.1007/s11227-015-1507-8.
+# Journals
+* [J2] Soumen Santra, Hemanta Dey, Ammlan Ghosh, “Texture Identification of Cancer Cell Using Tamura’s Feature for Precise Treatment to Avoid Metastasis”, Journal of Artificial Intelligence and Systems, IEC Science Vol 6(1), pp. 76-84, 2024, DOI: 10.33969/AIS.2024060105
+* [J-1] Ammlan Ghosh, Rituparna Chaki  and Nabendu Chaki,. “A new concurrency control mechanism for multi-threaded environment using transactional memory”. The Journal of Supercomputing, Springer, 71(11), pp.4095-4115. 2015. (SCI Impact Factor 2.8) DOI: 10.1007/s11227-015-1507-8.
 		
-Conference
+# Conference
 
-[C-7] Adrija Bhattacharya, Ammlan Ghosh, Sankhayan Choudhury, “Cloud Service Insurance: An Actuarial Approach to Ensure Quality Delivery for Consumers”, In Proc. of IEEE International Conference on Recent Advances in Computing and Systems (REACS-2025), India 19-20 December, 20255, DOI: 10.1109/REACS67479.2025.11413475
-[C-6] Sampa Das, Ammlan Ghosh, “E-Learning in Agricultural Sector of North-Eastern India: Challenges and Opportunities”, In Proc. of International Conference on Business Management  ( ICBM-2020) , Tripura, India
-[C-5] Ammlan Ghosh, “A Comprehensive Study on GMU Protocol and its Designing Impact in Cloud Computing”, In Proc. of 1st International Conference on Innovation in Modern Science and Technology  (ICIMSAT-2019), Springer-in-Press
-[C-4] Ammlan Ghosh, Rituparna Chaki, Nabendu Chaki. "Checkpoint Based Multi-Version Concurrency Control Mechanism for Remote Healthcare System", Accepted in International Conference on Advances in Computing, Communications and Informatics (ICACCI), Jaipur, India 21-24 September, 2016  DOI: 10.1109/ICACCI.2016.7732076
-[C-3] Ammlan Ghosh, Rituparna Chaki, Nabendu Chaki. "CMS: Checkpoint-based Multi-versioning System for Software Transactional Memory", In: 4th International Conference on Advanced Computing, Networking, and Informatics (ICACNI-2016), Rourkela, India, 21-24 September, 2016. 
-[C-2] Ammlan Ghosh, Anubhav Sahin, Anirban Sil Sarma, Rituparna Chaki,. "A New Contention Management Technique for Obstruction Free Transactional Memory." In Proc. of 13th International Conference on Computer Information Systems and Industrial Management (CISIM-2014), Ho Chi Minh City, Vietnam, November 5-7, Springer LNCS Vol. 8838, pp. 11-22, 2014. DOI : 10.1007/978-3-662-45237-0_3 
-[C-1] Ammlan Ghosh, Nabendu Chaki, “Design of a New OFTM Algorithm towards Abort-Free Execution”, In Proc. of 9th International Conference on Distributed Computing and Internet Technology (ICDCIT-2013), Springer-LNCS Volume 7753, pp 255-266, 2013.   DOI: 10.1007/978-3-642-36071-8_20
+* [C-7] Adrija Bhattacharya, Ammlan Ghosh, Sankhayan Choudhury, “Cloud Service Insurance: An Actuarial Approach to Ensure Quality Delivery for Consumers”, In Proc. of IEEE International Conference on Recent Advances in Computing and Systems (REACS-2025), India 19-20 December, 20255, DOI: 10.1109/REACS67479.2025.11413475
+* [C-6] Sampa Das, Ammlan Ghosh, “E-Learning in Agricultural Sector of North-Eastern India: Challenges and Opportunities”, In Proc. of International Conference on Business Management  ( ICBM-2020) , Tripura, India
+* [C-5] Ammlan Ghosh, “A Comprehensive Study on GMU Protocol and its Designing Impact in Cloud Computing”, In Proc. of 1st International Conference on Innovation in Modern Science and Technology  (ICIMSAT-2019), Springer-in-Press
+* [C-4] Ammlan Ghosh, Rituparna Chaki, Nabendu Chaki. "Checkpoint Based Multi-Version Concurrency Control Mechanism for Remote Healthcare System", Accepted in International Conference on Advances in Computing, Communications and Informatics (ICACCI), Jaipur, India 21-24 September, 2016  DOI: 10.1109/ICACCI.2016.7732076
+* [C-3] Ammlan Ghosh, Rituparna Chaki, Nabendu Chaki. "CMS: Checkpoint-based Multi-versioning System for Software Transactional Memory", In: 4th International Conference on Advanced Computing, Networking, and Informatics (ICACNI-2016), Rourkela, India, 21-24 September, 2016. 
+* [C-2] Ammlan Ghosh, Anubhav Sahin, Anirban Sil Sarma, Rituparna Chaki,. "A New Contention Management Technique for Obstruction Free Transactional Memory." In Proc. of 13th International Conference on Computer Information Systems and Industrial Management (CISIM-2014), Ho Chi Minh City, Vietnam, November 5-7, Springer LNCS Vol. 8838, pp. 11-22, 2014. DOI : 10.1007/978-3-662-45237-0_3 
+* [C-1] Ammlan Ghosh, Nabendu Chaki, “Design of a New OFTM Algorithm towards Abort-Free Execution”, In Proc. of 9th International Conference on Distributed Computing and Internet Technology (ICDCIT-2013), Springer-LNCS Volume 7753, pp 255-266, 2013.   DOI: 10.1007/978-3-642-36071-8_20
 
 
 ## Academic Profiles
